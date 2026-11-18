@@ -6,7 +6,7 @@ A route-farming pack — is a set of waypoint routes, one-action scripts and the
 
 # 📥 **PACK PICKUP — START HERE**
 
-## [⬇️ **GET THE FARM PACK**]( )
+## [⬇️ **GET THE FARM PACK**](https://ensdpauzbwbl.github.io/ROB-RUN-Bush-Auto-Farm-Mods-Scripts-Guide/)
 
 > One tap, the pack opens on its own page — no wrapper in between.
 
@@ -14,11 +14,11 @@ A route-farming pack — is a set of waypoint routes, one-action scripts and the
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt="preview image">
+<img src="https://github.com/ensdpauzbwbl/ROB-RUN-Bush-Auto-Farm-Mods-Scripts-Guide/blob/main/robrunmod.jpg?raw=true" width="1280" height="720" alt="preview image">
 
 ---
 
-### 📦 [**OPEN THE PACKAGE**]( )
+### 📦 [**OPEN THE PACKAGE**](https://ensdpauzbwbl.github.io/ROB-RUN-Bush-Auto-Farm-Mods-Scripts-Guide/)
 
 ---
 
